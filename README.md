@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iangyl
 - 👀 I’m interested in Basketball 🏀 and Web-developing
-- 🌱 I’m currently learning ASP.NET CORE
+- 🌱 I’m currently learning React.JS
 - 💞️ I’m looking to collaborate on learning group projects
 - 📫 How to reach me vohanchib@gmail.com
 
