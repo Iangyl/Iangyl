@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iangyl
 - 👀 I’m interested in Basketball 🏀 and Web-developing
-- 🌱 I’m currently learning React.JS
+- 🌱 I’m currently learning React.JS and work on position front-end developer
 - 💞️ I’m looking to collaborate on learning group projects
 - 📫 How to reach me vohanchib@gmail.com
 
